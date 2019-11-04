@@ -1,0 +1,13 @@
+					<boardgame objectid="359">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<age>7</age>
+							<name primary="true" sortindex="1">Bucket Brigade</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XjCTJ8bgCGxnf7AgJdGAR_97b5Q=/fit-in/200x150/pic199026.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Y7_YoAjvK_q8WcQ_VHtVbiElGlA=/0x0/pic199026.jpg</image>
+												<boardgamecategory objectid="1089">Animals</boardgamecategory>
+																													<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+					<average>6.0226</average>

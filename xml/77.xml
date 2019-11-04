@@ -1,0 +1,14 @@
+					<boardgame objectid="77">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>240</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">EastFront</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/txiDjBaf8FvoTA3Sr76C48CWsdg=/fit-in/200x150/pic289183.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/8bGUVDA5ot5xkS_hauSc97Cl1Zk=/0x0/pic289183.jpg</image>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+																						<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+					<average>7.64223</average>

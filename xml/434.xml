@@ -1,0 +1,14 @@
+					<boardgame objectid="434">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>9</age>
+							<name primary="true" sortindex="1">Yucata&#039;</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/MSIyIc_qsGWa8xtuW6Zd0blyggg=/fit-in/200x150/pic1948722.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aitQHUZve70qAuxLOCW0xqPUBhA=/0x0/pic1948722.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																																																																																										<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+																													<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>5.83671</average>

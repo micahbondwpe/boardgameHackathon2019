@@ -1,0 +1,12 @@
+					<boardgame objectid="615">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<age>0</age>
+							<name primary="true" sortindex="1">Cube Fusion</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0LX92QxemZDUu7cbKJl8I-s0qfE=/fit-in/200x150/pic970302.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/d50VbNcTclMjZqAqsyb2Co6tFfc=/0x0/pic970302.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+					<average>5.28125</average>

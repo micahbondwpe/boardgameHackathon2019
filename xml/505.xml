@@ -1,0 +1,13 @@
+					<boardgame objectid="505">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Goldener Drache</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/JsGLihisCVdV1cc7Q_cIdjg22Uk=/fit-in/200x150/pic294989.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uOExmHk3pHt93CfOgNygXoiKqVo=/0x0/pic294989.jpg</image>
+												<boardgamemechanic objectid="2689">Action Queue</boardgamemechanic>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+																													<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+					<average>5.6975</average>

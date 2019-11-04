@@ -1,0 +1,11 @@
+					<boardgame objectid="365">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Tricks</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/TsOP7tBsJmuA2xK1LEMdR9GGrak=/fit-in/200x150/pic120537.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/NjzLMhLLbmgbsWFqLlMKy5AdOMY=/0x0/pic120537.jpg</image>
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>5.64053</average>

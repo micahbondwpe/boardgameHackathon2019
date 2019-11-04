@@ -1,0 +1,15 @@
+					<boardgame objectid="132">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Caesar &amp; Cleopatra</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/d-aV1zXUK7Cscn_EmbWNqhhYjGI=/fit-in/200x150/pic344378.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Xh1JraJ3wh_BXO8eIbCTVTjWbxQ=/0x0/pic344378.jpg</image>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+																						<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>6.42421</average>

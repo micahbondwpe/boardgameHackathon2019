@@ -1,0 +1,13 @@
+					<boardgame objectid="14">
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>25</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Basari</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hBDymMYGWKQNbiuxDtqSQyYZDvQ=/fit-in/200x150/pic48605.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xFRII0rLyA7eb2CDF_GT4BS-eLE=/0x0/pic48605.jpg</image>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+					<average>6.75781</average>

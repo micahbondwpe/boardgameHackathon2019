@@ -1,0 +1,13 @@
+					<boardgame objectid="62">
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>120</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Curse of the Mummy&#039;s Tomb</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/95iMdeuCU6cQqjvr7gW4eBA6ft0=/fit-in/200x150/pic146706.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/wGB1Qk_dS2nru76NhcpJwdhjbY4=/0x0/pic146706.jpg</image>
+															<boardgamemechanic objectid="2689">Action Queue</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamecategory objectid="1024">Horror</boardgamecategory>
+					<average>5.31877</average>

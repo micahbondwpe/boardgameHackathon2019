@@ -1,0 +1,14 @@
+					<boardgame objectid="635">
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>20</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Formula Motor Racing</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/PVbu-Ev0FSsEmm-pCCTQRdvxibE=/fit-in/200x150/pic1513026.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SbuJx3m2SC8jWWS0t_aZBKou-iI=/0x0/pic1513026.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamecategory objectid="1031">Racing</boardgamecategory>
+					<average>6.40697</average>

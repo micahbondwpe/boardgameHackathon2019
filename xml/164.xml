@@ -1,0 +1,12 @@
+					<boardgame objectid="164">
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Before I Kill You, Mister Spy...</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OCc3ASmVv52BNU5PsKlMYmheR-c=/fit-in/200x150/pic3051016.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/dCHRbsB_E86VRMXx2UrQR-OiKtE=/0x0/pic3051016.jpg</image>
+																			<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																				<boardgamemechanic objectid="2661">Push Your Luck</boardgamemechanic>
+																																				<boardgamecategory objectid="1081">Spies/Secret Agents</boardgamecategory>
+					<average>5.41938</average>

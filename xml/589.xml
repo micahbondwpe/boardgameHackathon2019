@@ -1,0 +1,13 @@
+					<boardgame objectid="589">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Wiz-War</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/j5xUb4RgqNoT7DwiDVzZFtThgSk=/fit-in/200x150/pic184442.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/WU4Wemyt-47T99ivx9QwB0VAROs=/0x0/pic184442.jpg</image>
+																																											<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+					<average>6.88414</average>

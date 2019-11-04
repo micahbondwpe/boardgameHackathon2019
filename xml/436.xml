@@ -1,0 +1,14 @@
+					<boardgame objectid="436">
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Canyon</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5NBPfBYoWnRKyMVFhGV7JQezr_U=/fit-in/200x150/pic70466.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SNIQis4-ao6_gNnLI2r7TWqtchM=/0x0/pic70466.jpg</image>
+															<boardgamemechanic objectid="2014">Betting and Bluffing</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																																																																												<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>6.24605</average>

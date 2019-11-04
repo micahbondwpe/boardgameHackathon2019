@@ -1,0 +1,11 @@
+					<boardgame objectid="931">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Corner</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Qz_5dPxLU7BHAA1ZGd0Dx2QruuM=/fit-in/200x150/pic512813.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Whi4mpSr7J2tOyrd3ovApJgiUFo=/0x0/pic512813.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+					<average>6.51795</average>

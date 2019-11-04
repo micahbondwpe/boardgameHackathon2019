@@ -1,0 +1,14 @@
+					<boardgame objectid="137">
+			<minplayers>2</minplayers>
+			<maxplayers>10</maxplayers>
+			<playingtime>20</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Pass the Bomb</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YbYa4kDK7nGh_tDfELiTZL-9Y4U=/fit-in/200x150/pic70432.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-rx5CJZF5n_CDiDly_tG5DK6m4U=/0x0/pic70432.jpg</image>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																													<boardgamecategory objectid="1072">Electronic</boardgamecategory>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+															<boardgamecategory objectid="1025">Word Game</boardgamecategory>
+					<average>5.83913</average>

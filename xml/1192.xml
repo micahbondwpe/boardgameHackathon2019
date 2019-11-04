@@ -1,0 +1,10 @@
+					<boardgame objectid="1192">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Nanuuk!</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/1jcxah7MOxLwFZewHv69W3ymaKE=/fit-in/200x150/pic314042.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5al78zFV4ERRvEaaxXtiqSRd1Mw=/0x0/pic314042.jpg</image>
+																																																																																																										<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+					<average>5.73118</average>

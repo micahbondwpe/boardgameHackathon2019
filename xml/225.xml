@@ -1,0 +1,11 @@
+					<boardgame objectid="225">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>20</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Icehouse</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/I1VS9qqTLThpt3RB-A-yWsBCyyw=/fit-in/200x150/pic2038742.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/GV7zZCGE95cs-BukNGbQDenXi_w=/0x0/pic2038742.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+					<average>6.64684</average>

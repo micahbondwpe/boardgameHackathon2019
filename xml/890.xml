@@ -1,0 +1,11 @@
+					<boardgame objectid="890">
+			<minplayers>1</minplayers>
+			<maxplayers>20</maxplayers>
+			<playingtime>90</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Real Action Stockcar Championship</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_zzVwTOeFXflPf9QoYrLYiFq1Uo=/fit-in/200x150/pic16406.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/QMNKASv4ufHa__kjcYh0xdxhOv0=/0x0/pic16406.jpg</image>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+																						<boardgamecategory objectid="1031">Racing</boardgamecategory>
+					<average>6.93559</average>

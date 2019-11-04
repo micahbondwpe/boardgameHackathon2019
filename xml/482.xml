@@ -1,0 +1,13 @@
+					<boardgame objectid="482">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Sky Runner</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-Z4bWZT-y4c3mvqg5V2Vgg_qibA=/fit-in/200x150/pic650195.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yl19DRhQFFQaR6z1q-l7HVcmOdI=/0x0/pic650195.jpg</image>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+					<average>5.53813</average>

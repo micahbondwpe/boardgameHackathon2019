@@ -1,0 +1,12 @@
+					<boardgame objectid="759">
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>1800</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Turning Point: Stalingrad</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/feB8xv-w_B4V6475dDIu3IHAV_U=/fit-in/200x150/pic290588.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/rp183e35a2Qcs8TlQjnbNfAH3IU=/0x0/pic290588.jpg</image>
+															<boardgamemechanic objectid="2021">Area-Impulse</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+					<average>7.21855</average>

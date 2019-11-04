@@ -1,0 +1,20 @@
+					<boardgame objectid="237">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Wooden Ships &amp; Iron Men</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xDg0WbFsFvxnZGxBcYRi_ssnG7s=/fit-in/200x150/pic3341.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/NG-CrUq03rvjErTAc3FjFgEaKqI=/0x0/pic3341.jpg</image>
+												<boardgamemechanic objectid="2689">Action Queue</boardgamemechanic>
+															<boardgamecategory objectid="2726">Age of Reason</boardgamecategory>
+															<boardgamecategory objectid="1108">American Indian Wars</boardgamecategory>
+															<boardgamecategory objectid="1075">American Revolutionary War</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamemechanic objectid="2026">Hexagon Grid</boardgamemechanic>
+															<boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamecategory objectid="1090">Pirates</boardgamecategory>
+																						<boardgamecategory objectid="2710">Post-Napoleonic</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>7.03418</average>

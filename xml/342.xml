@@ -1,0 +1,11 @@
+					<boardgame objectid="342">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Hong Kong</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/rma4pgMXShlsFSck9th7rbO2qFA=/fit-in/200x150/pic325010.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/PekbZ9h1SarOoFdhBBelklJ0NgY=/0x0/pic325010.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+					<average>5.73286</average>

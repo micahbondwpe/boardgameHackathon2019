@@ -1,0 +1,18 @@
+					<boardgame objectid="554">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>120</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="4">La Città</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LIW9ruRXiyfaDftWIpAhE6Sjvs8=/fit-in/200x150/pic274350.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/MetqQCz7DeJ5068FUK2E-Ff2y0g=/0x0/pic274350.jpg</image>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+																						<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+															<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																																				<boardgamecategory objectid="1070">Renaissance</boardgamecategory>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+					<average>7.05295</average>

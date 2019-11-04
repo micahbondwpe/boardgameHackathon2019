@@ -1,0 +1,12 @@
+					<boardgame objectid="517">
+			<minplayers>0</minplayers>
+			<maxplayers>0</maxplayers>
+			<playingtime>0</playingtime>
+			<age>0</age>
+							<name primary="true" sortindex="1">Shark Bait</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/rf_-4bPInTOcQUJBQyzaUBwxSx4=/fit-in/200x150/pic328.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/hKYN-7cYfT307nuQE8E6hzcV1OI=/0x0/pic328.jpg</image>
+												<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+					<average>5.125</average>

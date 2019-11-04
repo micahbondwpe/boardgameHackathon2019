@@ -1,0 +1,12 @@
+					<boardgame objectid="657">
+			<minplayers>3</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Münchhausen</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OxPZ4Pk5wEiIYzMRsFfKUl2mhe8=/fit-in/200x150/pic877892.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/s3C1aXb5u34R-48rnobgNB49e1M=/0x0/pic877892.jpg</image>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+					<average>5.83147</average>

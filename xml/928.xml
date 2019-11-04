@@ -1,0 +1,12 @@
+					<boardgame objectid="928">
+			<minplayers>3</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>20</playingtime>
+			<age>7</age>
+							<name primary="true" sortindex="1">Gerüchteküche</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_K0aBTf2MoGt6m66975xUe5x4_o=/fit-in/200x150/pic72079.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/tGt0LD-H8EkLAdHoCBtFQRv1-MQ=/0x0/pic72079.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>5.08803</average>

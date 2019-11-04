@@ -1,0 +1,13 @@
+					<boardgame objectid="339">
+			<minplayers>1</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Quiddler</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/yBIM-c-vU1BAG_C9WIqgAay9q-0=/fit-in/200x150/pic1753681.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iMb0hbyGMbIpd9f_1sNNKCp6xZI=/0x0/pic1753681.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																																																<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamecategory objectid="1025">Word Game</boardgamecategory>
+					<average>6.04989</average>

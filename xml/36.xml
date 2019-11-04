@@ -1,0 +1,24 @@
+					<boardgame objectid="36">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>300</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Federation &amp; Empire</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/JPdSj5cEcejHKW7ZSZ8hxLTODlY=/fit-in/200x150/pic387448.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/bPALjYnmm_TeAD8xIAyCFD6o8ZY=/0x0/pic387448.jpg</image>
+															<boardgamemechanic objectid="2026">Hexagon Grid</boardgamemechanic>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgame objectid="141025" inbound="true">Captain&#039;s Log #12</boardgame>
+															<boardgame objectid="141026" inbound="true">Captain&#039;s Log #14</boardgame>
+															<boardgame objectid="141060" inbound="true">Captain&#039;s Log #18</boardgame>
+															<boardgame objectid="141099" inbound="true">Captain&#039;s Log #19</boardgame>
+															<boardgame objectid="141101" inbound="true">Captain&#039;s Log #20</boardgame>
+															<boardgame objectid="141050" inbound="true">Captain&#039;s Log #21</boardgame>
+															<boardgame objectid="141036" inbound="true">Captain&#039;s Log #22</boardgame>
+															<boardgame objectid="141032" inbound="true">Captain&#039;s Log #23</boardgame>
+															<boardgame objectid="141028" inbound="true">Captain&#039;s Log #25</boardgame>
+															<boardgame objectid="141100" inbound="true">Captain&#039;s Log #27</boardgame>
+															<boardgame objectid="158466" inbound="true">Captain&#039;s Log #37</boardgame>
+															<boardgame objectid="141098" inbound="true">Captain&#039;s Log #38</boardgame>
+					<average>6.33679</average>

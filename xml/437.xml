@@ -1,0 +1,14 @@
+					<boardgame objectid="437">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Master Labyrinth</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/zIOxXmZfi52hB1gDCtF4Tn35k8o=/fit-in/200x150/pic187018.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HbfEbt9F_A4iZfi1zH8Mg6rtNPE=/0x0/pic187018.jpg</image>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+					<average>6.27875</average>

@@ -1,0 +1,11 @@
+					<boardgame objectid="636">
+			<minplayers>4</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<age>0</age>
+							<name primary="true" sortindex="1">Blindside</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/eLMc9T12DLkP91w48qvV32KcEx0=/fit-in/200x150/pic45148.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9wXbAmnnPq37TuQlo880WP97xvk=/0x0/pic45148.jpg</image>
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>6.25294</average>

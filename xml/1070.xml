@@ -1,0 +1,16 @@
+					<boardgame objectid="1070">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>15</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Shadows in the Forest</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0Rm-7QR8-B6ccgURpK1bBsR0UBs=/fit-in/200x150/pic4684918.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qV_2t9sbs6VExUaJO8iEgkQhVac=/0x0/pic4684918.jpg</image>
+												<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamemechanic objectid="2023">Cooperative Game</boardgamemechanic>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+																						<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+																																				<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+					<average>6.17704</average>

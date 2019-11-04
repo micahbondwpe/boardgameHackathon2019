@@ -1,0 +1,15 @@
+					<boardgame objectid="384">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>75</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">TurfMaster</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/gV1E1AlDepkDP6b5U06A5XEpUKY=/fit-in/200x150/pic289677.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yk8WlmpuP1IY0bCe95q1iSbhuxk=/0x0/pic289677.jpg</image>
+												<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																																											<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																													<boardgamecategory objectid="1031">Racing</boardgamecategory>
+																						<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+																						<boardgamecategory objectid="1038">Sports</boardgamecategory>
+					<average>7.23074</average>

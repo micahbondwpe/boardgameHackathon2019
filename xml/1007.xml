@@ -1,0 +1,14 @@
+					<boardgame objectid="1007">
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>75</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="5">Die Hanse</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Yt0o4vivKDcTDhjnC7mrHjIb12Q=/fit-in/200x150/pic412292.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/YL8oHNcvt5yHrnvqWpe3lZBv9oQ=/0x0/pic412292.jpg</image>
+																						<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+																						<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+					<average>5.68344</average>

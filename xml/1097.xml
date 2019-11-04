@@ -1,0 +1,15 @@
+					<boardgame objectid="1097">
+			<minplayers>6</minplayers>
+			<maxplayers>41</maxplayers>
+			<playingtime>120</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Don&#039;t Give Up Your Day Job!</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/g6c7siq2I1D6aNysz86GCFAE16w=/fit-in/200x150/pic139086.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3SVs9JGogrv4PnXHuPDKSn6MhN0=/0x0/pic139086.jpg</image>
+															<boardgamemechanic objectid="2073">Acting</boardgamemechanic>
+															<boardgamemechanic objectid="2023">Cooperative Game</boardgamemechanic>
+															<boardgamecategory objectid="1054">Music</boardgamecategory>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamemechanic objectid="2038">Singing</boardgamemechanic>
+															<boardgamecategory objectid="1027">Trivia</boardgamecategory>
+					<average>0</average>

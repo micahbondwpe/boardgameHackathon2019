@@ -1,0 +1,13 @@
+					<boardgame objectid="195">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">NASCAR Champions</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wAKR2zF7Gf_9TbYtz5wGeKAnULc=/fit-in/200x150/pic178499.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Rl1_nEjKrhMCmdyQMVKPNMPlN_s=/0x0/pic178499.jpg</image>
+												<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+					<average>5.39844</average>

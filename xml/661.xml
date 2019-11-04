@@ -1,0 +1,11 @@
+					<boardgame objectid="661">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Where&#039;s Bob&#039;s Hat?</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/P1uzuZWmNhHewv7Q5aD-vruSoFI=/fit-in/200x150/pic244547.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zNWoxG1pvHekfVaWqTQ9034WUbs=/0x0/pic244547.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>6.22958</average>

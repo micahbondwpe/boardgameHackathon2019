@@ -1,0 +1,13 @@
+					<boardgame objectid="651">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>20</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Zero Down</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/woQhAAzHrio2Skn2RhtbU3GXwTE=/fit-in/200x150/pic3796472.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ZVDxEewtoWWL5Waj630YfDHm7oA=/0x0/pic3796472.png</image>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+					<average>6.44667</average>

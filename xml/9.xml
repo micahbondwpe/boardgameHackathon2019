@@ -1,0 +1,12 @@
+					<boardgame objectid="9">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<age>13</age>
+							<name primary="true" sortindex="4">El Caballero</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vh6QNbi9pJO4rkdMFdeqkDDKPtQ=/fit-in/200x150/pic1731731.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/p_RmeyXFl0-NdTUxAAX-U9fkIRY=/0x0/pic1731731.jpg</image>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+					<average>6.47787</average>

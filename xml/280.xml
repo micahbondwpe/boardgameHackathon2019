@@ -1,0 +1,11 @@
+					<boardgame objectid="280">
+			<minplayers>2</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Neue Spiele im alten Rom</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/v111Gm9PMnQbr-8oHGE4B1qBbKw=/fit-in/200x150/pic5886.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2gaBLhKtxmD5hu90dKpO4CmOB78=/0x0/pic5886.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamecategory objectid="1119">Game System</boardgamecategory>
+					<average>6.80974</average>

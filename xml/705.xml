@@ -1,0 +1,13 @@
+					<boardgame objectid="705">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>300</playingtime>
+			<age>0</age>
+							<name primary="true" sortindex="1">Caesar in Gallia</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/M4Vry-mjWLfyH0qy5kUFqgOyOE4=/fit-in/200x150/pic477919.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/D8_mIlOgE6tNmazej5TvybChNRo=/0x0/pic477919.jpg</image>
+												<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamemechanic objectid="2026">Hexagon Grid</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>6.84474</average>

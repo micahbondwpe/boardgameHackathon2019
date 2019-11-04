@@ -1,0 +1,11 @@
+					<boardgame objectid="298">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Lang lebe der König!</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Ft6MPDE9PCVeXa7NMBHufompqo0=/fit-in/200x150/pic153283.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xqRTlpYN-IhRz83P54q4KobU6j4=/0x0/pic153283.jpg</image>
+															<boardgamemechanic objectid="2017">Voting</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>5.16333</average>

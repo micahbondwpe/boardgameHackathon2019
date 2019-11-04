@@ -1,0 +1,11 @@
+					<boardgame objectid="736">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>90</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">San Francisco</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/iGz3wU8t0KBus-kTOKC3HCZbRuI=/fit-in/200x150/pic87995.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1OkoDT8BHt5qNLLX_QbCzLTG9Qc=/0x0/pic87995.jpg</image>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+					<average>6.19961</average>

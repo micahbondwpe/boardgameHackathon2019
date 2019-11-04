@@ -1,0 +1,12 @@
+					<boardgame objectid="123">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<age>7</age>
+							<name primary="true" sortindex="1">Green Thumb Cards</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/aoePE2zcCgzuFXQdmhJEpVLucWI=/fit-in/200x150/pic43293.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/hafOT3gIJsR02g--j8KffWxhNDc=/0x0/pic43293.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+					<average>6.77083</average>

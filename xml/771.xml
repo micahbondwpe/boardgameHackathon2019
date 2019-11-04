@@ -1,0 +1,12 @@
+					<boardgame objectid="771">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Kings and Castles</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mWgUMbCR-sh--X1H7SE_J9aGEqI=/fit-in/200x150/pic63978.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/93GoZHZNDtJmSJKt8jgMK4Wt9E4=/0x0/pic63978.jpg</image>
+												<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>6.62179</average>

@@ -1,0 +1,13 @@
+					<boardgame objectid="378">
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>120</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Lancashire Railways</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SogeZ8SWihVJ0yzJzlu7oKpVL0s=/fit-in/200x150/pic167745.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mibdZm1rLmYzHs-tF_VkKjcreIk=/0x0/pic167745.jpg</image>
+															<boardgamemechanic objectid="2010">Crayon Rail System</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+					<average>6.90727</average>

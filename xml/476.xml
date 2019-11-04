@@ -1,0 +1,12 @@
+					<boardgame objectid="476">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Mr. President</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Tb1z0V7K41g-1WCMXB9b6T6mqHE=/fit-in/200x150/pic18382.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/i3yHkL6tgU29pJYdN35kXKvKuXg=/0x0/pic18382.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+					<average>6.59332</average>

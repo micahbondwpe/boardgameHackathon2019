@@ -1,0 +1,15 @@
+					<boardgame objectid="51">
+			<minplayers>1</minplayers>
+			<maxplayers>99</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Ricochet Robots</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/e75pWF-glU_-Hf8jmO216T0e3UM=/fit-in/200x150/pic1766273.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JYeDH3hI2Dp41vYnnjlAElwS9pE=/0x0/pic1766273.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																																																																																																																																																											<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+					<average>7.00262</average>

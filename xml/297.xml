@@ -1,0 +1,12 @@
+					<boardgame objectid="297">
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>120</playingtime>
+			<age>9</age>
+							<name primary="true" sortindex="1">Stadens Nyckel</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5pAz3zA3ywzuLfD5DWj_Q-PErYw=/fit-in/200x150/pic246825.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6b_sgd1wCELXnzyErAA0x4pSVas=/0x0/pic246825.jpg</image>
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+					<average>5.28259</average>

@@ -1,0 +1,11 @@
+					<boardgame objectid="206">
+			<minplayers>3</minplayers>
+			<maxplayers>9</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Pepper</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Km109owNnWLHsuxJk12_T8laHSY=/fit-in/200x150/pic295868.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ZQ8aNFho2qR_Gm57ZQ3LnLwuN-Y=/0x0/pic295868.jpg</image>
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>5.92696</average>

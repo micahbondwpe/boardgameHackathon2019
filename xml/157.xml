@@ -1,0 +1,15 @@
+					<boardgame objectid="157">
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>240</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Eurorails</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Sw0IEO8H70hAB4fGWR52QtOg4JE=/fit-in/200x150/pic509670.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/NR0AUH3n7MLctChc623GkDwbOos=/0x0/pic509670.jpg</image>
+															<boardgamemechanic objectid="2010">Crayon Rail System</boardgamemechanic>
+																													<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamemechanic objectid="2081">Network and Route Building</boardgamemechanic>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+					<average>7.0749</average>

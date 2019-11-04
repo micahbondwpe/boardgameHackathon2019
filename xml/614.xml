@@ -1,0 +1,14 @@
+					<boardgame objectid="614">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<age>7</age>
+							<name primary="true" sortindex="1">Rubik&#039;s Race</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/qlj0nNg_TG1N4C4JrN2Cw3BkpaU=/fit-in/200x150/pic2072277.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/f0OopDcQROR9pnuaxhUPgv1U904=/0x0/pic2072277.jpg</image>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+					<average>6.00424</average>

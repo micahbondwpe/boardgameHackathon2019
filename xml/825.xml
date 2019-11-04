@@ -1,0 +1,14 @@
+					<boardgame objectid="825">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Screaming Eagles</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ukQqyBHrUh6P_urZpGUzLz6u8q0=/fit-in/200x150/pic58525.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6iyBCafZRHSN1NqamYmRBjhzB0I=/0x0/pic58525.jpg</image>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>5.97699</average>

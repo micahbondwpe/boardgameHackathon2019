@@ -1,0 +1,14 @@
+					<boardgame objectid="959">
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Luftschiff</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/sWLA2Gq8yWI7KlRc-UInVw1tNEU=/fit-in/200x150/pic22972.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iqHCi7Q4Ry7Un_LVsIkMJMK0AEw=/0x0/pic22972.jpg</image>
+												<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamecategory objectid="1065">World War I</boardgamecategory>
+					<average>7.09444</average>

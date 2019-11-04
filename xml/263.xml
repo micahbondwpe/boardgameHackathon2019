@@ -1,0 +1,14 @@
+					<boardgame objectid="263">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Manitou</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hgYt0c9IGY24S59DGIWJ0gUiVdc=/fit-in/200x150/pic158910.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/QfOWBYqpCIqdd23V0BsyvPkPd0k=/0x0/pic158910.jpg</image>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																													<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+					<average>6.14345</average>

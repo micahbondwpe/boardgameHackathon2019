@@ -1,0 +1,12 @@
+					<boardgame objectid="196">
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>75</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Kremlin</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Us1QGnD2sRnCk3uwlAsGxE-rIm8=/fit-in/200x150/pic1490479.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/cbefCaxHTuG168pjTfxjm16892M=/0x0/pic1490479.jpg</image>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+																													<boardgamemechanic objectid="2017">Voting</boardgamemechanic>
+					<average>6.97287</average>

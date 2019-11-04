@@ -1,0 +1,15 @@
+					<boardgame objectid="11">
+			<minplayers>2</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>45</playingtime>
+			<age>13</age>
+							<name primary="true" sortindex="1">Bohnanza</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/uwI4ME5bA9KTNqmo6fYdUAV8NkE=/fit-in/200x150/pic69366.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Hwyjq4cYfXY2l07Hm9mncHlrI4U=/0x0/pic69366.jpg</image>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1013">Farming</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+					<average>7.04028</average>

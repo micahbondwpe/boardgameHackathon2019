@@ -1,0 +1,13 @@
+					<boardgame objectid="1099">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<age>7</age>
+							<name primary="true" sortindex="1">Downspin</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0xklljsRiz3-RIJjdpQuyWyKXzE=/fit-in/200x150/pic171896.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/TCEhOODxoBajyPR0apwO6JzSC38=/0x0/pic171896.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+					<average>5.48254</average>

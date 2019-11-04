@@ -1,0 +1,13 @@
+					<boardgame objectid="108">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">TAMSK</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ecv2nDF5E8mAfkYV9TKYmt4SvUY=/fit-in/200x150/pic54775.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xCyNw1DRy0jy0rxWPDeZcnp8Q_w=/0x0/pic54775.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																													<boardgamemechanic objectid="2043">Enclosure</boardgamemechanic>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																													<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+					<average>6.77662</average>

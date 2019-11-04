@@ -1,0 +1,14 @@
+					<boardgame objectid="291">
+			<minplayers>3</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>120</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Courtisans of Versailles</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CqpnqibMhAIJduB-B68T9e0_Z9U=/fit-in/200x150/pic9628.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/YxqTYLikcie0w5CzLOYHjtRzMpo=/0x0/pic9628.jpg</image>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+															<boardgamemechanic objectid="2028">Role Playing</boardgamemechanic>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+					<average>5.80633</average>

@@ -1,0 +1,18 @@
+					<boardgame objectid="118">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Modern Art</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/1wWSnKeIq0m_GkX48GThnbNjlU8=/fit-in/200x150/pic3458036.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/V6gWtm8yHD-7A5F3mQshxGW1zuc=/0x0/pic3458036.png</image>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2918">Auction: English</boardgamemechanic>
+															<boardgamemechanic objectid="2923">Auction: Once Around</boardgamemechanic>
+															<boardgamemechanic objectid="2920">Auction: Sealed Bid</boardgamemechanic>
+															<boardgamemechanic objectid="2919">Auction: Turn Order Until Pass</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+																																				<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+					<average>7.3785</average>

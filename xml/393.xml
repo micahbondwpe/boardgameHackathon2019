@@ -1,0 +1,13 @@
+					<boardgame objectid="393">
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Dinosaurs of the Lost World</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Ra8hFMcXjAmcr1pEqZbt60o1OCk=/fit-in/200x150/pic675608.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/LoRDc4LIazpXth1b-woALS6tD-0=/0x0/pic675608.jpg</image>
+												<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamecategory objectid="1093">Novel-based</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+					<average>6.55725</average>

@@ -1,0 +1,11 @@
+					<boardgame objectid="994">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Auf Trab im Sulkydrom</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/lvfzCdWdE8VtfOt0FZHNebWjz8k=/fit-in/200x150/pic5840.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2EK9446_ni_kIaBzT6Eu-ULuKAM=/0x0/pic5840.jpg</image>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+					<average>5.13333</average>

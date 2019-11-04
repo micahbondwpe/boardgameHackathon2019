@@ -1,0 +1,13 @@
+					<boardgame objectid="882">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<age>0</age>
+							<name primary="true" sortindex="1">Derby</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/KUFxDq7yLwlqYseZ3WHZO9oc5FA=/fit-in/200x150/pic630254.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0X60KR4oTOqdnn4sddQEwMe3RwQ=/0x0/pic630254.jpg</image>
+												<boardgamemechanic objectid="2014">Betting and Bluffing</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+																						<boardgamecategory objectid="1038">Sports</boardgamecategory>
+					<average>6.05244</average>

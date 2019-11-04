@@ -1,0 +1,13 @@
+					<boardgame objectid="1107">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Nyet!</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5INoAnLAoCUSsb1L61pQLuC3lIE=/fit-in/200x150/pic2592080.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uTYA4nuwVQ86rLEdfCsRKQdVJ1w=/0x0/pic2592080.jpg</image>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>6.8165</average>

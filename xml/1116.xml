@@ -1,0 +1,11 @@
+					<boardgame objectid="1116">
+			<minplayers>3</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Oh Hell!</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/BNGiBT1iJ4bH7LX_eNblTcpUabs=/fit-in/200x150/pic616572.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/H6lK_BSZbO7WiRkPbQtv6oZqy5I=/0x0/pic616572.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>6.78352</average>

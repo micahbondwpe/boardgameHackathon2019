@@ -1,0 +1,11 @@
+					<boardgame objectid="650">
+			<minplayers>2</minplayers>
+			<maxplayers>100</maxplayers>
+			<playingtime>60</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Fairy Meat</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/gH03TpriyVisC2z4wXzVPOrYgaM=/fit-in/200x150/pic26594.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ziz0bFU6Ce1LvmaU7HhMcKG6JtY=/0x0/pic26594.jpg</image>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>5.96036</average>

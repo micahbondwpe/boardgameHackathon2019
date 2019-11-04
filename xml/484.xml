@@ -1,0 +1,20 @@
+					<boardgame objectid="484">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>60</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Stratego Legends</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/EzCYbjzRfVoxAGCI6KMVy3Tmok4=/fit-in/200x150/pic3480263.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Tw5xHzSkui-OhpkeeTO-5PFw4NU=/0x0/pic3480263.png</image>
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+																																											<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																						<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+					<average>5.78692</average>

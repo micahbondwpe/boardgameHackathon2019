@@ -1,0 +1,13 @@
+					<boardgame objectid="142">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>90</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Vino</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Qgkh_kEUXwu4BCoFZgz5csTxRqc=/fit-in/200x150/pic423043.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kMmMsxbXIV0i3dFOH_mwBA04Dhw=/0x0/pic423043.jpg</image>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+																													<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+					<average>6.46413</average>

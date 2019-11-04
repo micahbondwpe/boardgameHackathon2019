@@ -1,0 +1,11 @@
+					<boardgame objectid="1129">
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>20</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Archimedes</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/M7cL9pCld4r7I4OyLogwnIUmJdY=/fit-in/200x150/pic64278.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/o3Aj5na-BvMXja8CT5yRQJlC5m4=/0x0/pic64278.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+					<average>5.7</average>

@@ -1,0 +1,12 @@
+					<boardgame objectid="338">
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Bargain Hunter</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/l20iJGxoJvqzH1lgtx3c0x1EG6c=/fit-in/200x150/pic681363.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-dmCpQEZFVKHAlegCWJ-yR2q3gU=/0x0/pic681363.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>6.76776</average>

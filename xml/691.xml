@@ -1,0 +1,14 @@
+					<boardgame objectid="691">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Timbuktu</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OQMAwOariCEYImk6a_cdRsG5MxM=/fit-in/200x150/pic100711.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/leV_jjyQby2M9TOHUTmjLao4Z2I=/0x0/pic100711.jpg</image>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+																													<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																																																																																																																								<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+																																				<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+					<average>6.68286</average>

@@ -1,0 +1,13 @@
+					<boardgame objectid="261">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<age>9</age>
+							<name primary="true" sortindex="1">Olympia 2000 (v. Chr.)</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VXjSrEP4uKx3XhAj9l1AlkMMFaA=/fit-in/200x150/pic1118996.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/f8jbYIpG7VLLLHVN_t3iem3kKJo=/0x0/pic1118996.jpg</image>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																				<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+					<average>6.06</average>

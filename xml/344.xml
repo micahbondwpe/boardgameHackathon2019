@@ -1,0 +1,14 @@
+					<boardgame objectid="344">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Members Only</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xtVCnBRVzQozni3w329AwjJgcfQ=/fit-in/200x150/pic618.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-he3-mmrO6V1PwEj0FCwzEKvuj8=/0x0/pic618.jpg</image>
+												<boardgamemechanic objectid="2014">Betting and Bluffing</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+					<average>6.60023</average>

@@ -1,0 +1,13 @@
+					<boardgame objectid="536">
+			<minplayers>4</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>60</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Visionary</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/G50qiXVS5eBdietJ2ulr0ylC9hc=/fit-in/200x150/pic292386.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/BI7Stwr3zxVysNCVucfCvG9u48o=/0x0/pic292386.jpg</image>
+															<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																						<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+					<average>6.50933</average>

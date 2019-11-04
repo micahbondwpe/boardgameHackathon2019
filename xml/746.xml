@@ -1,0 +1,12 @@
+					<boardgame objectid="746">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="5">The Game of France, 1940: German Blitzkrieg in the West</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ntm3NqQq-e0gcy4_zYaE-6yW8-M=/fit-in/200x150/pic12164.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aiDu51N5IETHc9lePNF1CVY5E84=/0x0/pic12164.jpg</image>
+																						<boardgamemechanic objectid="2026">Hexagon Grid</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+					<average>5.81798</average>

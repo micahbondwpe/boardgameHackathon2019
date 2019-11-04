@@ -1,0 +1,12 @@
+					<boardgame objectid="227">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Knightmare Chess</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Vgdr2eTpzcp1X8d5MQR2D2LUMWQ=/fit-in/200x150/pic199970.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0MnEW_MjerartZ6MzWdb-4hB90I=/0x0/pic199970.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+					<average>6.43215</average>

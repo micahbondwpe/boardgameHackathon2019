@@ -1,0 +1,11 @@
+					<boardgame objectid="569">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Maestro</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/kwjgX8L26zT3g3XYcQ3H-yPS-Zw=/fit-in/200x150/pic1289383.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/09HvhIWjLdwRKDIX7bvhzPvsvyU=/0x0/pic1289383.jpg</image>
+															<boardgamecategory objectid="1054">Music</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>5.81278</average>

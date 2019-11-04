@@ -1,0 +1,11 @@
+					<boardgame objectid="504">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="5">Die Verbotene Stadt</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-oY8K57LQGj6vaZLWcwVz1PrHXA=/fit-in/200x150/pic246245.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0hoaIR3erCM_2WVnehiR4ByJEY8=/0x0/pic246245.jpg</image>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+																																				<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+					<average>6.06667</average>

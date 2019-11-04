@@ -1,0 +1,12 @@
+					<boardgame objectid="1173">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Millionenspiel</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/MqlYuO6NdXU9CKlxC9DwC6L7MOo=/fit-in/200x150/pic28426.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/vBOlv3If9H6vLcmDQg4X5_1iSn4=/0x0/pic28426.jpg</image>
+															<boardgamemechanic objectid="2014">Betting and Bluffing</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+					<average>5.79298</average>

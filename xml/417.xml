@@ -1,0 +1,11 @@
+					<boardgame objectid="417">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Edison &amp; Co.</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/3mwOA-79amkFLgHXDXZOXXpO9k8=/fit-in/200x150/pic55577.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/TwQKKy78SQWASqM9F-2mx574AN8=/0x0/pic55577.jpg</image>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+					<average>4.48411</average>

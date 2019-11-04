@@ -1,0 +1,11 @@
+					<boardgame objectid="810">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Amoeba</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/NfJ-NTLlm0XSBTA8Mr5LXFua2BQ=/fit-in/200x150/pic647734.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0GIRjGzdShj4D63uV8Z6Ob-wrjA=/0x0/pic647734.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+					<average>5.98214</average>

@@ -1,0 +1,14 @@
+					<boardgame objectid="392">
+			<minplayers>2</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>15</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Brawl</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ccsSfpVr8GWGRLDKrxTeZMDy26c=/fit-in/200x150/pic1379180.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/GbAxbSOU2s2zhNt_iBPoBWoEMNo=/0x0/pic1379180.jpg</image>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+															<boardgamemechanic objectid="2831">Real-Time</boardgamemechanic>
+																						<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+					<average>6.36034</average>

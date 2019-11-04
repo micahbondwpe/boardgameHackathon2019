@@ -1,0 +1,12 @@
+					<boardgame objectid="375">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>120</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">6 Billion</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/so3J7rjOACxc8KNKiasjvGKm-Wc=/fit-in/200x150/pic9632.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/VkdrciiB01a94b916sEhO9uDnyU=/0x0/pic9632.jpg</image>
+												<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																																				<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+					<average>5.30231</average>

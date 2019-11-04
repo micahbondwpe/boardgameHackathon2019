@@ -1,0 +1,15 @@
+					<boardgame objectid="702">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>120</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Wabbit Wampage</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/GFLh3TyimEZsOtesb0Qq_yM1wCo=/fit-in/200x150/pic111585.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HuqW49p8jgiSujDL91S5QRGZe3Y=/0x0/pic111585.jpg</image>
+															<boardgamemechanic objectid="2001">Action Points</boardgamemechanic>
+															<boardgamecategory objectid="1116">Comic Book / Strip</boardgamecategory>
+															<boardgamecategory objectid="1013">Farming</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+					<average>5.98479</average>

@@ -1,0 +1,17 @@
+					<boardgame objectid="1">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>240</playingtime>
+			<age>14</age>
+							<name primary="true" sortindex="5">Die Macher</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Y2pmp3_tPmiyJ032upHBwqD49xM=/fit-in/200x150/pic4718279.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uqlrq_bQJqHpcaN7_7qocV5XfbU=/0x0/pic4718279.jpg</image>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																																				<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+					<average>7.62345</average>

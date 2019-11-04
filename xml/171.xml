@@ -1,0 +1,14 @@
+					<boardgame objectid="171">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<age>6</age>
+							<name primary="true" sortindex="1">Chess</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/v4iQ22pft-lihR4m0D9aid05qLE=/fit-in/200x150/pic260745.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kjE_203UAzAopd1voyWKAvXqFHw=/0x0/pic260745.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2946">Pattern Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2940">Square Grid</boardgamemechanic>
+															<boardgamemechanic objectid="2861">Static Capture</boardgamemechanic>
+					<average>7.10241</average>

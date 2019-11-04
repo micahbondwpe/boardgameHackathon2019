@@ -1,0 +1,12 @@
+					<boardgame objectid="382">
+			<minplayers>2</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Heimlich &amp; Co.</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ei4tXoQ89AxP-OoWk6FQWxt2Kd8=/fit-in/200x150/pic3989541.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iLvAaHp5Y1ryM4A55ybFTNkSz9Q=/0x0/pic3989541.png</image>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+																						<boardgamecategory objectid="1081">Spies/Secret Agents</boardgamecategory>
+					<average>6.44411</average>

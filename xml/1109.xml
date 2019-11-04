@@ -1,0 +1,10 @@
+					<boardgame objectid="1109">
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>20</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Last Minute</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OFEVMYity6WRehDfMYFAljQaHvc=/fit-in/200x150/pic53638.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ILKcvBtn_t__ZW2T0o2-mM-ivr8=/0x0/pic53638.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+					<average>5.65</average>

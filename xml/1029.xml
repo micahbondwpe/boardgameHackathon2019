@@ -1,0 +1,13 @@
+					<boardgame objectid="1029">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>210</playingtime>
+			<age>16</age>
+							<name primary="true" sortindex="1">Lieber bairisch sterben</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/NxqZrPK__X4L-r3QaedZEXtz7u4=/fit-in/200x150/pic1013257.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/XJKHbWcseHr4dh7Q_UCLU500L-Y=/0x0/pic1013257.jpg</image>
+												<boardgamemechanic objectid="2021">Area-Impulse</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>6.50811</average>

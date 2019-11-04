@@ -1,0 +1,14 @@
+					<boardgame objectid="950">
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Four Dragons</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CpYnavg_HOKv6VIs2q6xRohvg58=/fit-in/200x150/pic50505.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Fopdo9u3EElh7FUMkYCv7aRFJQg=/0x0/pic50505.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+																																				<boardgamecategory objectid="1024">Horror</boardgamecategory>
+															<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>6.57884</average>

@@ -1,0 +1,13 @@
+					<boardgame objectid="152">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>60</playingtime>
+			<age>11</age>
+							<name primary="true" sortindex="1">Mü &amp; More</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DrGir3Us4y7r84NKeRjys9Ft6Tc=/fit-in/200x150/pic149672.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JGdPnWNKkAoy-eWX45H7RMAYgJQ=/0x0/pic149672.jpg</image>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																				<boardgamecategory objectid="1119">Game System</boardgamecategory>
+															<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>7.17256</average>

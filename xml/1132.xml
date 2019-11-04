@@ -1,0 +1,13 @@
+					<boardgame objectid="1132">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Top Secret</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VlxmN5L1BunfZ24b3riyhgrqcmc=/fit-in/200x150/pic579505.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/05NmxLy-_gAHJSinUbTE31kvyy4=/0x0/pic579505.jpg</image>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+					<average>5.65669</average>

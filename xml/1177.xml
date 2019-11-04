@@ -1,0 +1,14 @@
+					<boardgame objectid="1177">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>6</age>
+							<name primary="true" sortindex="5">Die Ritter von der Haselnuss</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/utt7J3sut_HuOArbW_XWEY4JkCQ=/fit-in/200x150/pic623383.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/PoFcbBszFnrMpkpBMFCdpQ99fF8=/0x0/pic623383.jpg</image>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+																													<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+					<average>5.912</average>

@@ -1,0 +1,12 @@
+					<boardgame objectid="792">
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>20</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Megiddo</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/br56a0mA930x2FeKcjTw9gHoLW4=/fit-in/200x150/pic55933.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/8G6CGUonqYmoEdMsEMg5zyL9M1k=/0x0/pic55933.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+					<average>6.01591</average>

@@ -1,0 +1,11 @@
+					<boardgame objectid="1045">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Malawi</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/v-sUxyeIZBpzTyIweBOE5mBWX98=/fit-in/200x150/pic51495.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/4sY2fZ3T-S507Fnyn_QBIT3n_3E=/0x0/pic51495.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+					<average>6.299</average>

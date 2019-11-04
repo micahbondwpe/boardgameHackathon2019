@@ -1,0 +1,10 @@
+					<boardgame objectid="500">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">MARK</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/V2QuJQL5ieRnMMIyJEoJadewuNw=/fit-in/200x150/pic3669697.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uF2XMOiWn4pOjmMVT0oQCOKLNPA=/0x0/pic3669697.jpg</image>
+																													<boardgamecategory objectid="1021">Economic</boardgamecategory>
+					<average>5.99542</average>

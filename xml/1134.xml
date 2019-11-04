@@ -1,0 +1,13 @@
+					<boardgame objectid="1134">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>0</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Road Warrior</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wifi8jmrHXKvwZ2X88PkP2-3QB0=/fit-in/200x150/pic30030.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/QLunnm_Fwv4cy0yJXcZE1qBy26c=/0x0/pic30030.jpg</image>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+					<average>4.46364</average>

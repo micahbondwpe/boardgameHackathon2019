@@ -1,0 +1,12 @@
+					<boardgame objectid="865">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<age>9</age>
+							<name primary="true" sortindex="1">Landslide</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/n3iU9iJCC7I1BeXtIoh8_u3t4VU=/fit-in/200x150/pic6920.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Iv9C056pPXs7jy9N07rY6zJ4qms=/0x0/pic6920.jpg</image>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+					<average>6.18188</average>

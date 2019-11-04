@@ -1,0 +1,13 @@
+					<boardgame objectid="228">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<age>13</age>
+							<name primary="true" sortindex="1">Lunch Money</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Jj9My1x4PMxaDDTwjCNopxGRQgg=/fit-in/200x150/pic11310.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/BlD-oD0wswYgwhQf3Bigl-xyfeU=/0x0/pic11310.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+					<average>5.63687</average>

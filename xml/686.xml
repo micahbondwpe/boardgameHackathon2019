@@ -1,0 +1,12 @@
+					<boardgame objectid="686">
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Dr. Jekyll &amp; Mr. Hyde</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xSt1es-GtGgw1AAKZGWp8oAha5k=/fit-in/200x150/pic48617.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6uLheKL-2ECxnFnzT3Jl7Di0tt4=/0x0/pic48617.jpg</image>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>6.77429</average>

@@ -1,0 +1,13 @@
+					<boardgame objectid="449">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>30</playingtime>
+			<age>7</age>
+							<name primary="true" sortindex="5">The Great Balloon Race</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tr8U0mTd1IUGoYjlzqhBf2XRWiM=/fit-in/200x150/pic200928.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/NVnnUsqtr0jakIZhMgJrAv1hUAY=/0x0/pic200928.jpg</image>
+												<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+					<average>6.15907</average>

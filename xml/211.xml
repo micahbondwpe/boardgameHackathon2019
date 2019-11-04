@@ -1,0 +1,11 @@
+					<boardgame objectid="211">
+			<minplayers>2</minplayers>
+			<maxplayers>10</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Times to Remember</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tOp7KAQJwWRysemESOIdW_Et4MY=/fit-in/200x150/pic2205312.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jE944wQR756gSYWMgmvb2bgHDEM=/0x0/pic2205312.jpg</image>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+																																				<boardgamecategory objectid="1027">Trivia</boardgamecategory>
+					<average>6.32114</average>

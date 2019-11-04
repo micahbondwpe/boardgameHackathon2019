@@ -1,0 +1,13 @@
+					<boardgame objectid="432">
+			<minplayers>2</minplayers>
+			<maxplayers>10</maxplayers>
+			<playingtime>45</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">6 nimmt!</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/X51KVi_wJEP3x7i65tQUBNOmR3g=/fit-in/200x150/pic2602138.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3Gg4GrqJwbhQHSYcw1TJJQDMsw8=/0x0/pic2602138.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2871">Kill Steal</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+					<average>6.89498</average>

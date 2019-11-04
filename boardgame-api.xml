@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="285774">
+			<yearpublished>2019</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Marvel Champions: El Juego de Cartas</name>
+							<name  sortindex="1">Marvel Champions: Il Gioco di Carte</name>
+							<name  sortindex="1">Marvel Champions: le jeu de cartes</name>
+							<name primary="true" sortindex="1">Marvel Champions: The Card Game</name>
+									
+			<description>&amp;quot;With great power, there must also come great responsibility.&amp;quot;&lt;br/&gt;   &amp;ndash;Stan Lee, Amazing Fantasy #15&lt;br/&gt;&lt;br/&gt;Iron Man and Black Panther team up to stop Rhino from rampaging through the streets of New York. Captain Marvel and Spider-Man battle Ultron as he threatens global annihilation. Do you have what it takes to join the ranks of these legendary heroes and become a champion?&lt;br/&gt;&lt;br/&gt;Jump into the Marvel Universe with Marvel Champions: The Card Game, a cooperative Living Card Game for one to four players!&lt;br/&gt;&lt;br/&gt;Marvel Champions: The Card Game invites players embody iconic heroes from the Marvel Universe as they battle to stop infamous villains from enacting their devious schemes. As a Living Card Game, Marvel Champions is supported with regular releases of new product, including new heroes and scenarios.&lt;br/&gt;&lt;br/&gt;&amp;mdash;description from the publisher&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/aiWh4Ib_f7jNdQnpxqwqAVgWPb8=/fit-in/200x150/pic4900321.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/hD6zhNhGT89NMLCGa2xwoSaitEw=/0x0/pic4900321.jpg</image>
+						
+												<boardgamedesigner objectid="119800">Michael Boggs</boardgamedesigner>
+															<boardgamepodcastepisode objectid="307616">69. DDP, What a load of Clank!, Tapestry, funkoverse, Emprires of the North,</boardgamepodcastepisode>
+															<boardgamepublisher objectid="42032">Asmodee Italia</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="5338">Comics: Marvel Universe</boardgamefamily>
+															<boardgamemechanic objectid="2023">Cooperative Game</boardgamemechanic>
+															<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+															<boardgamepodcastepisode objectid="303548">DDP 68. Post-show Holiday, Post-show GenCon Post-show Everything else!</boardgamepodcastepisode>
+															<boardgameversion objectid="466246">English edition</boardgameversion>
+															<boardgamepublisher objectid="17">Fantasy Flight Games</boardgamepublisher>
+															<boardgamedesigner objectid="11655">Nate French</boardgamedesigner>
+															<boardgameversion objectid="468045">French edition</boardgameversion>
+															<boardgamedesigner objectid="69895">Caleb Grace</boardgamedesigner>
+															<boardgameversion objectid="468640">Italian edition</boardgameversion>
+															<boardgamefamily objectid="5337">Living Card Game</boardgamefamily>
+																																											<boardgameexpansion objectid="289222">Marvel Champions: The Card Game – Captain America Hero Pack</boardgameexpansion>
+															<boardgameexpansion objectid="291432">Marvel Champions: The Card Game – Ms. Marvel Hero Pack</boardgameexpansion>
+															<boardgameexpansion objectid="288794">Marvel Champions: The Green Goblin Scenario Pack</boardgameexpansion>
+															<boardgamepodcastepisode objectid="312070">RDTN Episode 181: Marvel Champions, Pax Pamir, Eternal, Sorcerer, War Chest Expansion</boardgamepodcastepisode>
+															<boardgameversion objectid="466345">Spanish edition</boardgameversion>
+															<boardgamefamily objectid="17935">Superheroes</boardgamefamily>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="24">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+			
+		
+				
+		</boardgame>
+	</boardgames>

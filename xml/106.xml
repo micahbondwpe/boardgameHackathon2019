@@ -1,0 +1,14 @@
+					<boardgame objectid="106">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Mystery Rummy: Jack the Ripper</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/FpGVzdG_hYzCb1CvjMNhZcm80F8=/fit-in/200x150/pic592086.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/tfTyq2650PaCX8hrfldGngj2jdU=/0x0/pic592086.jpg</image>
+																													<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																													<boardgamecategory objectid="1040">Murder/Mystery</boardgamecategory>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2017">Voting</boardgamemechanic>
+					<average>6.95366</average>

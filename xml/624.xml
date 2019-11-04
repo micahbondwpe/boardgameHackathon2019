@@ -1,0 +1,13 @@
+					<boardgame objectid="624">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Quoridor</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/o_GGFkaqfZuNwObCDANwJJdotIQ=/fit-in/200x150/pic3488232.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/T8PwrJu6SrjMPtFtvviY8YwUMrI=/0x0/pic3488232.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamemechanic objectid="2940">Square Grid</boardgamemechanic>
+					<average>6.67539</average>

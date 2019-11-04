@@ -1,0 +1,12 @@
+					<boardgame objectid="1110">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Kathai</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/GYq4ZKht4kmnCLD-rsvLN8ELYC0=/fit-in/200x150/pic21312.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/pLBJ-iZ556jGQs1kPDHGuDvz-AE=/0x0/pic21312.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+					<average>5.7716</average>

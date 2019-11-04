@@ -1,0 +1,12 @@
+					<boardgame objectid="784">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>120</playingtime>
+			<age>13</age>
+							<name primary="true" sortindex="1">Discretion</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bf-8cKLkrfwKtQ7LrqxtsUsdq4I=/fit-in/200x150/pic4088969.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/RbM_NkrVlb3lB5-ep_geJXnHcdU=/0x0/pic4088969.jpg</image>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+					<average>6.61538</average>

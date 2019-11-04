@@ -1,0 +1,12 @@
+					<boardgame objectid="984">
+			<minplayers>3</minplayers>
+			<maxplayers>10</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Name Burst</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XXf_40a8FU5S2dbQppWyfZunWWU=/fit-in/200x150/pic9126.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FKhQtB5M-AdZwlTRkwPYP-QLBCY=/0x0/pic9126.jpg</image>
+																						<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+															<boardgamecategory objectid="1027">Trivia</boardgamecategory>
+					<average>6.16567</average>

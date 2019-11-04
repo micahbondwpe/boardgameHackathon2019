@@ -1,0 +1,12 @@
+					<boardgame objectid="528">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<age>9</age>
+							<name primary="true" sortindex="1">ZÈRTZ</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZGGlFyO66UpBFpkf1yGHJ6EDTTk=/fit-in/200x150/pic3140639.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6EqCDEhOPaPTnUPgxaLjbVeHOr4=/0x0/pic3140639.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>7.30031</average>

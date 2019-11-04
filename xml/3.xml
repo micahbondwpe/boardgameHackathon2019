@@ -1,0 +1,15 @@
+					<boardgame objectid="3">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Samurai</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/BOzp5hzTDSHjXf0yijvREDXxQos=/fit-in/200x150/pic3211873.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mPS50ts53753q5-kb5vWbTDN8Z0=/0x0/pic3211873.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+																																																																																																																	<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																																				<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+																																																									<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+					<average>7.44123</average>

@@ -1,0 +1,16 @@
+					<boardgame objectid="12">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Ra</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6d0zX3j56NknAus56Wf_WqN7S9s=/fit-in/200x150/pic3013552.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iA_LlRmPfFILGon-zvbWeEzxvX8=/0x0/pic3013552.jpg</image>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2923">Auction: Once Around</boardgamemechanic>
+															<boardgamemechanic objectid="2922">Constrained Bidding</boardgamemechanic>
+																						<boardgamecategory objectid="1082">Mythology</boardgamecategory>
+																						<boardgamemechanic objectid="2661">Push Your Luck</boardgamemechanic>
+																																				<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>7.46876</average>

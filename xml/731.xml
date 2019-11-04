@@ -1,0 +1,13 @@
+					<boardgame objectid="731">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Escape from New York</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/nv-i6Jio4h1llKtLSG-r_DTSt3Y=/fit-in/200x150/pic132212.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jw-rQVSfrD5GJzDkaI0SaOzknc8=/0x0/pic132212.jpg</image>
+												<boardgamemechanic objectid="2001">Action Points</boardgamemechanic>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+					<average>5.50357</average>

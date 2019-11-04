@@ -1,0 +1,15 @@
+					<boardgame objectid="770">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>20</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Loot</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/FjOTsD9JKuuIs3N_GtDXyOATEkc=/fit-in/200x150/pic3360346.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_fYdHwBshLSaQSK_4hnFS3e9r5E=/0x0/pic3360346.jpg</image>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+																						<boardgamecategory objectid="1090">Pirates</boardgamecategory>
+															<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+					<average>6.29938</average>

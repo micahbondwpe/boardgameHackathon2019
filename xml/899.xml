@@ -1,0 +1,15 @@
+					<boardgame objectid="899">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>13</age>
+							<name primary="true" sortindex="1">Movie Mania</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/X2-_NWJYcH1WGs-ba6tFOgL2T-w=/fit-in/200x150/pic584342.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JUWYjrEWajNeDlmIBMt2-k_uD1w=/0x0/pic584342.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamecategory objectid="1027">Trivia</boardgamecategory>
+					<average>4.53891</average>

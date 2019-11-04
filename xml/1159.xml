@@ -1,0 +1,19 @@
+					<boardgame objectid="1159">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>120</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Evo</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ut3HPM3FhAldSao7JHG4AujTPa0=/fit-in/200x150/pic1100790.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/V-8BqhWIvQ3cQwdOTwd3JDH7UBo=/0x0/pic1100790.jpg</image>
+																						<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																																																																																																																	<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																																											<boardgamecategory objectid="1036">Prehistoric</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamemechanic objectid="2874">Victory Points as a Resource</boardgamemechanic>
+					<average>6.87445</average>

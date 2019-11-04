@@ -1,0 +1,13 @@
+					<boardgame objectid="323">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Anno 1452</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ko1QlO8CaZYB0HEktrByZxLWaLE=/fit-in/200x150/pic324971.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2W9D2mM2dtKvfHRv7EmA-VAKSZA=/0x0/pic324971.jpg</image>
+												<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+					<average>6.07081</average>

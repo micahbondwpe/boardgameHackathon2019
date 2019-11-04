@@ -1,0 +1,12 @@
+					<boardgame objectid="774">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>6</age>
+							<name primary="true" sortindex="1">Buddel Bande</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hu0Z234u-7-DVF_dO9Ygi3U0UkY=/fit-in/200x150/pic623385.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/7saPYiuJIkuzr4DukX3VQR-BJNk=/0x0/pic623385.jpg</image>
+												<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+					<average>5.8125</average>

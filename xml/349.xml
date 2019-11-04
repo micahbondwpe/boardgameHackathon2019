@@ -1,0 +1,12 @@
+					<boardgame objectid="349">
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Halunken &amp; Spelunken</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/dUxhBbk-rkRSm1NOpLtX7s6xMxQ=/fit-in/200x150/pic72037.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/G4wRjzgaL_CvXfYHJxzIZYRUnhA=/0x0/pic72037.jpg</image>
+												<boardgamecategory objectid="2726">Age of Reason</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>5.61853</average>

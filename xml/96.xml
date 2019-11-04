@@ -1,0 +1,16 @@
+					<boardgame objectid="96">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Broadsides and Boarding Parties</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vmQv0jGfRQiyXq9hNb2AQ0ZdtMU=/fit-in/200x150/pic1021646.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mGR8fsicNTzCsHSQUkY4OQ-Zzdo=/0x0/pic1021646.jpg</image>
+												<boardgamemechanic objectid="2689">Action Queue</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamecategory objectid="1090">Pirates</boardgamecategory>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>6.16769</average>

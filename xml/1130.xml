@@ -1,0 +1,13 @@
+					<boardgame objectid="1130">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<age>14</age>
+							<name primary="true" sortindex="1">Halali</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/llkdIzMWw0AodxfS0NkDh6DwGAI=/fit-in/200x150/pic14240.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/sp736aRFqULVsinlL1YtElFFjpo=/0x0/pic14240.jpg</image>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamemechanic objectid="2026">Hexagon Grid</boardgamemechanic>
+																						<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+					<average>6.21134</average>

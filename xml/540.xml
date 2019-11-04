@@ -1,0 +1,12 @@
+					<boardgame objectid="540">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Sisimizi</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hq5CpvdcQXvn7i4L1vV7IPzuxDs=/fit-in/200x150/pic1389831.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/QBfc0B4kvrt3SHsfUt7EADMW9zE=/0x0/pic1389831.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+																																											<boardgamemechanic objectid="2081">Network and Route Building</boardgamemechanic>
+					<average>6.29929</average>

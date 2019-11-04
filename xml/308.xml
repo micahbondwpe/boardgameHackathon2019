@@ -1,0 +1,12 @@
+					<boardgame objectid="308">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>70</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Santa Fe</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/WC7JSe4Ad-Z_pZsacMfoQnBAMj8=/fit-in/200x150/pic86174.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0Qcu8zIWW6oeCVJvpMcbsFcFlRs=/0x0/pic86174.jpg</image>
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamemechanic objectid="2081">Network and Route Building</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+					<average>6.95664</average>

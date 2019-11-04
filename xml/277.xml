@@ -1,0 +1,13 @@
+					<boardgame objectid="277">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Res Publica</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/sucms3xdxR6QqzjdQStrYvzzGC0=/fit-in/200x150/pic1101876.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/VJkTLmS3pT2Ecb_UA5vXVT7pWxk=/0x0/pic1101876.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+																																				<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+					<average>5.93384</average>

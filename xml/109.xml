@@ -1,0 +1,11 @@
+					<boardgame objectid="109">
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Wettstreit der Baumeister</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YvXPTgFCKEIAUIu1tmr2pbt3G24=/fit-in/200x150/pic613651.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/fxbFjKQNnSlGSVqMhKH-OV7yqUA=/0x0/pic613651.jpg</image>
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+					<average>6.10272</average>

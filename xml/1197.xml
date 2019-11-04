@@ -1,0 +1,14 @@
+					<boardgame objectid="1197">
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>10</playingtime>
+			<age>7</age>
+							<name primary="true" sortindex="1">Blink</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZftxKec2KaiS3FBpzKoo9FpbWtE=/fit-in/200x150/pic70439.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JyM09_kJGrfaBtROTOxdZcRibFA=/0x0/pic70439.jpg</image>
+															<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+					<average>5.94136</average>

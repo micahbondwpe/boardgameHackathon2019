@@ -1,0 +1,15 @@
+					<boardgame objectid="394">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>40</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Kahuna</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Dmi9JQ8OJJiOcHkKR_xMNXganKI=/fit-in/200x150/pic2606165.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/sG8Gjsd3AdIYaREO4HHJK7jWtoI=/0x0/pic2606165.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamemechanic objectid="2081">Network and Route Building</boardgamemechanic>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+					<average>6.64853</average>

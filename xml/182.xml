@@ -1,0 +1,14 @@
+					<boardgame objectid="182">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Hungry</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/cGkcoUOow_AUnrHQR8cLQszJv4k=/fit-in/200x150/pic3950556.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_VKY4HvMZbOmOu713j1tG6rZ-vM=/0x0/pic3950556.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+					<average>6.36476</average>

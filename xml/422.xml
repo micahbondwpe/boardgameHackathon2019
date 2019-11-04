@@ -1,0 +1,14 @@
+					<boardgame objectid="422">
+			<minplayers>3</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>360</playingtime>
+			<age>16</age>
+							<name primary="true" sortindex="1">1835</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mg4jew3dlPdIJa9kxUXOe9PasWc=/fit-in/200x150/pic202312.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_Y8L4OMjVyXuzqkh6xwObipOnKc=/0x0/pic202312.jpg</image>
+																													<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+																													<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamemechanic objectid="2081">Network and Route Building</boardgamemechanic>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+																													<boardgamecategory objectid="1034">Trains</boardgamecategory>
+					<average>7.02167</average>

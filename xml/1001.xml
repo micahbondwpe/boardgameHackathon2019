@@ -1,0 +1,12 @@
+					<boardgame objectid="1001">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Vendetta</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/rTYLm8gXdohf4Ia9sdzsnwSgoEw=/fit-in/200x150/pic193052.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/W0jejMaTf_bcaHFH9hTEFn5OXiA=/0x0/pic193052.jpg</image>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamecategory objectid="1033">Mafia</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+					<average>5.06726</average>

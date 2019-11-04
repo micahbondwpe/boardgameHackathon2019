@@ -1,0 +1,12 @@
+					<boardgame objectid="1012">
+			<minplayers>3</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="5">Die Magier</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Qv8txJog7l04EgFWIFl-9tskTKo=/fit-in/200x150/pic798174.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mXbW9pXeLMtoJvhAtJVjjMJAz44=/0x0/pic798174.jpg</image>
+																																				<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>5.77059</average>

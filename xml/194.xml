@@ -1,0 +1,15 @@
+					<boardgame objectid="194">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Groo: The Game</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SgNQVM78Ytha_UaWiBbe7NNi-es=/fit-in/200x150/pic135807.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/tP7qJ3Q8aXMV6brCX_-bOrTZtj8=/0x0/pic135807.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+															<boardgamecategory objectid="1116">Comic Book / Strip</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+																													<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+					<average>6.28033</average>

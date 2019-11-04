@@ -1,0 +1,18 @@
+					<boardgame objectid="531">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Merchants of Amsterdam</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/RS5Zv1VbkH6eKqkny4nY6Rx4zdk=/fit-in/200x150/pic153968.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/gvzsH512KhthcfxFbifaEDJRNag=/0x0/pic153968.jpg</image>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2930">Auction: Dexterity</boardgamemechanic>
+															<boardgamemechanic objectid="2924">Auction: Dutch</boardgamemechanic>
+															<boardgamemechanic objectid="2932">Auction: Dutch Priority</boardgamemechanic>
+																						<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																													<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+															<boardgamecategory objectid="1070">Renaissance</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+					<average>6.71693</average>

@@ -1,0 +1,11 @@
+					<boardgame objectid="69">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Bollox</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/sjNIMWLGPoj7wKMGFRw_zXJuHrk=/fit-in/200x150/pic26032.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ErAQF6T-2I5K6sDskB5rZGDysr4=/0x0/pic26032.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+					<average>6.74286</average>

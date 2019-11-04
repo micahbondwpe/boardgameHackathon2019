@@ -1,0 +1,14 @@
+					<boardgame objectid="1139">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<age>7</age>
+							<name primary="true" sortindex="1">Fantastische Ballonreise</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/E-0K4AogkSCTdp-Pt17SPJ4SwMA=/fit-in/200x150/pic58595.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/CQu12E_Tm5PcKctLkg9RHli1Zh0=/0x0/pic58595.jpg</image>
+												<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+					<average>3.66667</average>

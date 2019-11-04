@@ -1,0 +1,13 @@
+					<boardgame objectid="469">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">In Teufels Küche</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6B33DJrXtKs3v_efHlgQInpeI4c=/fit-in/200x150/pic237.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/rFpNSrMo5BZtZTzKYFKmS-TDrPI=/0x0/pic237.jpg</image>
+												<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+																						<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+					<average>6.07161</average>

@@ -1,0 +1,15 @@
+					<boardgame objectid="551">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Battle Cry</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/rW_YOV2zW9GIqUxVArMgpP0_pYE=/fit-in/200x150/pic21060.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Kka6gXQqPvVlB5VzCy2dLHShCVA=/0x0/pic21060.jpg</image>
+																						<boardgamecategory objectid="1048">American Civil War</boardgamecategory>
+															<boardgamemechanic objectid="2841">Command Cards</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																																																																																																			<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>7.16268</average>

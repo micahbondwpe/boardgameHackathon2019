@@ -1,0 +1,12 @@
+					<boardgame objectid="824">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>40</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Hijara</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/A2sZH6thy7mngxQMD2lRR56akgc=/fit-in/200x150/pic84788.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3FEuW0GjIVkiMSNPAuuJbNPxSao=/0x0/pic84788.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1052">Arabian</boardgamecategory>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+					<average>5.91766</average>

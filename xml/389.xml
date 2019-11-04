@@ -1,0 +1,11 @@
+					<boardgame objectid="389">
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="5">Die Mauer</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/p_x1WxsIYv3xkOzReUTD-BEBILw=/fit-in/200x150/pic172280.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3lp81trnjt479AcwCz2GZ-CIZm0=/0x0/pic172280.jpg</image>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+																																																																																																																								<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+					<average>6.02085</average>

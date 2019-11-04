@@ -1,0 +1,12 @@
+					<boardgame objectid="1047">
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">MeM</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/i2HjREQ1TyNthS2on-a-uV7jsqw=/fit-in/200x150/pic1511568.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/q26mTl6a7enR2NOCSd6oWyb7zBs=/0x0/pic1511568.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+					<average>7.36429</average>

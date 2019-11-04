@@ -1,0 +1,11 @@
+					<boardgame objectid="642">
+			<minplayers>3</minplayers>
+			<maxplayers>10</maxplayers>
+			<playingtime>20</playingtime>
+			<age>0</age>
+							<name primary="true" sortindex="1">Oodles</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/27TgNNiFvne_KwYbBpoYoczwQdA=/fit-in/200x150/pic2493652.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/miXVAzcI9KetufQRB6Dz0WIOxAM=/0x0/pic2493652.jpg</image>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamecategory objectid="1027">Trivia</boardgamecategory>
+					<average>6.10599</average>

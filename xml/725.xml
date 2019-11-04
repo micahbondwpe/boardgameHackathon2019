@@ -1,0 +1,11 @@
+					<boardgame objectid="725">
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>60</playingtime>
+			<age>0</age>
+							<name primary="true" sortindex="1">Triple Threat Baseball!</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LimeT1LtFkOsTyCLWsBQrLdEvbA=/fit-in/200x150/pic267838.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EfAXLN9A_yHspP6TO1a726otpes=/0x0/pic267838.jpg</image>
+												<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+					<average>6.3125</average>

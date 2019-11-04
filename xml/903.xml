@@ -1,0 +1,11 @@
+					<boardgame objectid="903">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>7</age>
+							<name primary="true" sortindex="1">Hamsterrolle</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YosOYh3P3E43OicU_Lnp4UZQLHw=/fit-in/200x150/pic1126660.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FgRbCMLgV_bkom5fhg2R-60soZE=/0x0/pic1126660.jpg</image>
+															<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+					<average>6.81884</average>

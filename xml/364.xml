@@ -1,0 +1,13 @@
+					<boardgame objectid="364">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>40</playingtime>
+			<age>9</age>
+							<name primary="true" sortindex="1">Samarkand</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/O9oWTNP4qR1KoeYyTpcB1fizQtY=/fit-in/200x150/pic2263.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EDKHkJp2Doe0NZ_xm5YDKj9YBck=/0x0/pic2263.jpg</image>
+																						<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+					<average>6.47966</average>

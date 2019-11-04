@@ -1,0 +1,14 @@
+					<boardgame objectid="383">
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Turf Horse Racing</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/1N0pL0-_J4t3kMWdvhBOWKDkELQ=/fit-in/200x150/pic701802.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jWNP1Hoc-ZpwAxMEvBda50JuymI=/0x0/pic701802.jpg</image>
+												<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamemechanic objectid="2014">Betting and Bluffing</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+					<average>6.50297</average>

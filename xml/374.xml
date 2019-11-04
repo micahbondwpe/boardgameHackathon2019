@@ -1,0 +1,13 @@
+					<boardgame objectid="374">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Colorado County</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/lO59--SoXCzaVhfL-nEh_iVPtrc=/fit-in/200x150/pic171379.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/E1fJxhanDp3BY8LwNII1Usk0lRY=/0x0/pic171379.jpg</image>
+												<boardgamecategory objectid="1055">American West</boardgamecategory>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+					<average>6.16337</average>

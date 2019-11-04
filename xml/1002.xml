@@ -1,0 +1,12 @@
+					<boardgame objectid="1002">
+			<minplayers>3</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Cosmic Eidex</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YceKHZ9RQLSK_VIf_WySxh4uFz8=/fit-in/200x150/pic209268.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/GZpDu1Ef_og9bIL4Wfw8Vc_KYGM=/0x0/pic209268.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+					<average>6.90013</average>

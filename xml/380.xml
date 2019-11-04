@@ -1,0 +1,11 @@
+					<boardgame objectid="380">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Polarity</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7coy1tpr_qbEk4g1go2A9E6Sz40=/fit-in/200x150/pic175963.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9PW0FweG2aTAa6CirtZO8FaB99o=/0x0/pic175963.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+					<average>6.38764</average>

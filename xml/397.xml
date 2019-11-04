@@ -1,0 +1,14 @@
+					<boardgame objectid="397">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>90</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Diskwars</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/kNVggAabgDiYURPWXKRFuURDl8o=/fit-in/200x150/pic1091139.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/63fb-rnZZM8nvofZJSL6N7sITIQ=/0x0/pic1091139.jpg</image>
+												<boardgamemechanic objectid="2001">Action Points</boardgamemechanic>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>5.89643</average>

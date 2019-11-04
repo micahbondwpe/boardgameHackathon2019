@@ -1,0 +1,11 @@
+					<boardgame objectid="190">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Dolce Vita</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/N4O357-Kp1Bkt8YjfZo7YlASttk=/fit-in/200x150/pic290421.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nvJDZ7s0j4crr2jPj673LZeUVcg=/0x0/pic290421.jpg</image>
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+					<average>6.1445</average>

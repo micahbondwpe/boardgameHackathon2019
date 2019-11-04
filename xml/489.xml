@@ -1,0 +1,11 @@
+					<boardgame objectid="489">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Pacal</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/eK7hcjgJYPUgfrRluz_LfZ1L54Q=/fit-in/200x150/pic979203.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/LH_HY_n63CTg90uq6TKNuWdKv2Y=/0x0/pic979203.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																				<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+					<average>6.2088</average>

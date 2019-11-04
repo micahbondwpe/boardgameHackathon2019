@@ -1,0 +1,16 @@
+					<boardgame objectid="913">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">High Bohn</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VIFxwmzg1Ap5MeI97VyaOgud3fA=/fit-in/200x150/pic248718.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/TGp-Qzo_KS71v00RvSXsMZH8TkA=/0x0/pic248718.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamecategory objectid="1013">Farming</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+					<average>6.66079</average>

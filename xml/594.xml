@@ -1,0 +1,15 @@
+					<boardgame objectid="594">
+			<minplayers>3</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Sleuth</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/x2y9aU-XbCaCg5Y4sbiag4B3KKw=/fit-in/200x150/pic1339353.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AmjcH9BskvOsdu7n1nwY7yJtP24=/0x0/pic1339353.png</image>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+					<average>6.90718</average>

@@ -1,0 +1,12 @@
+					<boardgame objectid="335">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Breakthru</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vIcXFaDJXZqARwRqBb38T9XXWoc=/fit-in/200x150/pic119969.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/IJwPp5dm68eISBiYQlDPGnSQ-bI=/0x0/pic119969.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																													<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+					<average>5.8101</average>

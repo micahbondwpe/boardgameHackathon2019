@@ -1,0 +1,12 @@
+					<boardgame objectid="1018">
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Galaxis</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XCyptTWE8QQcWX3haoVR9VFr78I=/fit-in/200x150/pic49682.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Zk5tkvIr_S5x0Wyw-h8y6GTDV40=/0x0/pic49682.jpg</image>
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+					<average>5.85417</average>

@@ -1,0 +1,13 @@
+					<boardgame objectid="608">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Siesta</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/3tCdgqAxYUDbkr_yqRdOTgP4zzQ=/fit-in/200x150/pic325179.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iHhMVTRsXxYL3H3NDdbJBZ9mv4A=/0x0/pic325179.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+					<average>6.28767</average>

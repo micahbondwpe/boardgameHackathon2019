@@ -1,0 +1,14 @@
+					<boardgame objectid="1150">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Lionheart</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/g-_rQqGpnR98H_9tPe28vAJAh-c=/fit-in/200x150/pic5019566.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9Eg8Zy2tvtl6x0o8i1aMlVW54uE=/0x0/pic5019566.png</image>
+												<boardgamemechanic objectid="2001">Action Points</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+					<average>5.6547</average>

@@ -1,0 +1,13 @@
+					<boardgame objectid="328">
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>120</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Damn the Torpedoes!</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CRXrsZXowE8mKUgh6vSvt-3b62U=/fit-in/200x150/pic178461.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Ts1-U4uQaKAmpHAXJzlpEIBHkcM=/0x0/pic178461.jpg</image>
+															<boardgamecategory objectid="1048">American Civil War</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>4.87778</average>

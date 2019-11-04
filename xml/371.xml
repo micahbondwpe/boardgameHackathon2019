@@ -1,0 +1,14 @@
+					<boardgame objectid="371">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>40</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Mystery Rummy: Murders in the Rue Morgue</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/17bqiI_r3IBdajb2eODlv895CJc=/fit-in/200x150/pic2542198.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/51RbZc1Oj2ur4-Ba5qi2ucTHSeU=/0x0/pic2542198.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1040">Murder/Mystery</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+					<average>6.71258</average>

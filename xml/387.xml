@@ -1,0 +1,12 @@
+					<boardgame objectid="387">
+			<minplayers>3</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Corruption</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/qQe3wVOl5GBKuNPSdIEYTjD4u4E=/fit-in/200x150/pic335335.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-SF3OMg3TcSpyRRODHcy8M7MxWk=/0x0/pic335335.jpg</image>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																				<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+					<average>5.81592</average>

@@ -1,0 +1,13 @@
+					<boardgame objectid="442">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Um Reifenbreite</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/uYF41oXX4I5kIxTZe3x9Hy7Hc6U=/fit-in/200x150/pic103131.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jZvP6wxn0bzeIXNgv4WCx85D_5s=/0x0/pic103131.jpg</image>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+																						<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+					<average>6.83265</average>

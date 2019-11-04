@@ -1,0 +1,13 @@
+					<boardgame objectid="592">
+			<minplayers>4</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Spades</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4zSf9iK5OmRtzzzEA_ZYugjcRHw=/fit-in/200x150/pic1977642.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/KFkQE9EL1bIB1FWAru8TzfZBfes=/0x0/pic1977642.jpg</image>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>6.75129</average>

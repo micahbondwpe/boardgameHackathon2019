@@ -1,0 +1,11 @@
+					<boardgame objectid="681">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Quarto</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-575icpOIUCmDH6_qVN-KM2dl5U=/fit-in/200x150/pic3488229.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EIoe-0DRHjuLb3KWiJzqiIXZCvg=/0x0/pic3488229.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+					<average>6.86912</average>

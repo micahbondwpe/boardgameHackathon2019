@@ -1,0 +1,13 @@
+					<boardgame objectid="811">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Rummikub</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/S22WSylcwkkKRvJ_xBwSZl86txg=/fit-in/200x150/pic2286966.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/4H8X72woji1Ujckz0mPbNxrftbU=/0x0/pic2286966.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>6.33656</average>

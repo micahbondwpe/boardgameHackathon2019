@@ -1,0 +1,13 @@
+					<boardgame objectid="617">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Alles Futsch</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/cfwmilAzEAud1iuYHL6AXjacelE=/fit-in/200x150/pic223452.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3P8v4thcPMsVuMH_rBfJx_accQA=/0x0/pic223452.jpg</image>
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>5.28125</average>

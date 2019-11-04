@@ -1,0 +1,12 @@
+					<boardgame objectid="57">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>180</playingtime>
+			<age>13</age>
+							<name primary="true" sortindex="1">Schoko &amp; Co.</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/QKyzYjJZIU_8-Aus8ub_pw2c1og=/fit-in/200x150/pic1378439.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/N3j7XuFtR96OdOh_qWFk5uGxE2c=/0x0/pic1378439.jpg</image>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+																													<boardgamecategory objectid="1021">Economic</boardgamecategory>
+					<average>6.66148</average>

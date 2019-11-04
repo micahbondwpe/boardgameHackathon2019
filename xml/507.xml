@@ -1,0 +1,12 @@
+					<boardgame objectid="507">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Cartel</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/IVCi6o6IZGYkEo3_wnQbbLleLqM=/fit-in/200x150/pic424305.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/vazhgcynohubfuIXEPAMAWNKXS8=/0x0/pic424305.jpg</image>
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>6.92858</average>

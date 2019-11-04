@@ -1,0 +1,13 @@
+					<boardgame objectid="1093">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Jolly Roger</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2CptRF87EdyMnjnpdIvGxuwWg_Y=/fit-in/200x150/pic1266827.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/KcMPg1l1BFOXGhnN7FlCStHdJV4=/0x0/pic1266827.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamecategory objectid="1090">Pirates</boardgamecategory>
+					<average>5.41818</average>

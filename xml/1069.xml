@@ -1,0 +1,10 @@
+					<boardgame objectid="1069">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Head Quarter</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/TDOQiFONdPAWpUI5q_Y7Hz_eZK4=/fit-in/200x150/pic11420.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/fLEqkW-2nwoFUk77gsroVYwyQN4=/0x0/pic11420.jpg</image>
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+					<average>6.09474</average>

@@ -1,0 +1,11 @@
+					<boardgame objectid="630">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Double Quick</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/9rx9XdBX2Ya_D0mDcNYv6kkVSzY=/fit-in/200x150/pic288235.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/hiAYGrVkkYvu3mOT5jKn0gqVkMY=/0x0/pic288235.jpg</image>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+															<boardgamecategory objectid="1025">Word Game</boardgamecategory>
+					<average>7.09722</average>

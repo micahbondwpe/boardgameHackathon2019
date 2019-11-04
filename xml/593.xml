@@ -1,0 +1,11 @@
+					<boardgame objectid="593">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<age>9</age>
+							<name primary="true" sortindex="1">Favoriten</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/shXE23_e7H7taunsIU_z_b_OosU=/fit-in/200x150/pic184258.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/UKUQJoKw4Gmfio5SEoUHbj8nMR4=/0x0/pic184258.jpg</image>
+															<boardgamemechanic objectid="2014">Betting and Bluffing</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+					<average>6.40548</average>

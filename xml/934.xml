@@ -1,0 +1,12 @@
+					<boardgame objectid="934">
+			<minplayers>3</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>60</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="5">Die Kette von Saba</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/M-Q-4Wz0koWynhisvx9Fw5Cn6jk=/fit-in/200x150/pic1283719.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/WG1B5DTiVjEzIawddFNLZcOOUWg=/0x0/pic1283719.jpg</image>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+					<average>5.41205</average>

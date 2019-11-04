@@ -1,0 +1,13 @@
+					<boardgame objectid="180">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Pool Position</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/iKaaDmt15eiEeTSC1OwljmtdC70=/fit-in/200x150/pic249632.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uogJYVkNOqhVOZ0FMLw225KynjY=/0x0/pic249632.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+					<average>5.78492</average>

@@ -1,0 +1,13 @@
+					<boardgame objectid="486">
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>15</playingtime>
+			<age>4</age>
+							<name primary="true" sortindex="1">Barnyard Buddies</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/km9pVW_iFD-up_yJJrGW_E4kw_k=/fit-in/200x150/pic738245.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/sSTufR_pIsvSX5RaEhjhPOgCwlk=/0x0/pic738245.jpg</image>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+																													<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+					<average>5.75848</average>

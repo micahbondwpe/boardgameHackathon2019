@@ -1,0 +1,18 @@
+					<boardgame objectid="761">
+			<minplayers>3</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="5">The Great Brain Robbery</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/FRQOpTNaPfDpe4mVlDa1SuH05O8=/fit-in/200x150/pic455616.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qHpuluTQNQNt8aW7WIFneAFG3Ms=/0x0/pic455616.jpg</image>
+															<boardgamecategory objectid="1055">American West</boardgamecategory>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+																						<boardgamecategory objectid="1024">Horror</boardgamecategory>
+																													<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+																													<boardgamecategory objectid="2481">Zombies</boardgamecategory>
+					<average>5.54839</average>

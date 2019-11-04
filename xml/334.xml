@@ -1,0 +1,14 @@
+					<boardgame objectid="334">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Advance to Boardwalk</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2zGARE4B3NkhrQ0jlLtNe0pI7eQ=/fit-in/200x150/pic194793.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/TOxSczCCA7iK00K0pui5y81X5pA=/0x0/pic194793.jpg</image>
+																			<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+					<average>5.35046</average>

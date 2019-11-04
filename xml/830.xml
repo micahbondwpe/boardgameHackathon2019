@@ -1,0 +1,12 @@
+					<boardgame objectid="830">
+			<minplayers>2</minplayers>
+			<maxplayers>20</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">FIB-OR-NOT?</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/erCiqkySGs8vSTv5SQwB7CfVoBM=/fit-in/200x150/pic6334.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/To9RS4HsabuaeOUGnGP1U8mBe9Q=/0x0/pic6334.jpg</image>
+												<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamemechanic objectid="2017">Voting</boardgamemechanic>
+					<average>4.9</average>

@@ -1,0 +1,14 @@
+					<boardgame objectid="163">
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>60</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Balderdash</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/c6ofMooAX4QE9Xesd8lfVNKVyfY=/fit-in/200x150/pic40574.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/MF5BpX_Vpx21a8xBaCOo4OuKwq8=/0x0/pic40574.jpg</image>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamemechanic objectid="2017">Voting</boardgamemechanic>
+																													<boardgamecategory objectid="1025">Word Game</boardgamecategory>
+					<average>6.4265</average>

@@ -1,0 +1,13 @@
+					<boardgame objectid="513">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">WarChest</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OoRzYnDVaTN8TagJ_WoKmJEg4jw=/fit-in/200x150/pic12136.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/4xMzd2FJQzDfHZnf7oaZ0uGKWG8=/0x0/pic12136.jpg</image>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+																						<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+					<average>6.30833</average>

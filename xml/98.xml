@@ -1,0 +1,17 @@
+					<boardgame objectid="98">
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>180</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Axis &amp; Allies</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/be102TnDxQJnO18dpIYhSQyBYrQ=/fit-in/200x150/pic24006.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/8S8JHFSHQQEe67A64VEAsGluB5Q=/0x0/pic24006.jpg</image>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamemechanic objectid="2863">Minimap Resolution</boardgamemechanic>
+															<boardgamemechanic objectid="2853">Stat Check Resolution</boardgamemechanic>
+															<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+																						<boardgamecategory objectid="1049">World War II</boardgamecategory>
+					<average>6.55976</average>

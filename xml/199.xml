@@ -1,0 +1,12 @@
+					<boardgame objectid="199">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Manhattan</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZA1-Nvkn_N9q1Fedw6SiCcaeJqs=/fit-in/200x150/pic3573055.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/8OQ5Kp1PVZhGPfxY0ZBDN0OHnBM=/0x0/pic3573055.png</image>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+					<average>6.7216</average>

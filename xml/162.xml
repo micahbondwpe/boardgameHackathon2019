@@ -1,0 +1,13 @@
+					<boardgame objectid="162">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="5">The Awful Green Things From Outer Space</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/yVev6y2kM6mYDzcKpzFta8uINCo=/fit-in/200x150/pic949958.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/GTVLHUPqyw6evL_FY-3Eizsl-ic=/0x0/pic949958.jpg</image>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+																						<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>6.50708</average>

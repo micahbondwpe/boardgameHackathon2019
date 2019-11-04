@@ -1,0 +1,10 @@
+					<boardgame objectid="1071">
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Aztec</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tY17stsfBsT2PUvgajJ4wkKWFGE=/fit-in/200x150/pic7078.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EaeLMjRD-ZXHLfjUXgCA0kvjmrE=/0x0/pic7078.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+					<average>6.57143</average>

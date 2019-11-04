@@ -1,0 +1,12 @@
+					<boardgame objectid="202">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>120</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">Targui</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/m_GLtggoa4ORouZ2GwbIV8KYxjo=/fit-in/200x150/pic1787067.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_ud7Bkxkh4755T--3P2WR5xIV4c=/0x0/pic1787067.jpg</image>
+																						<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+					<average>6.36409</average>

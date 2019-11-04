@@ -1,0 +1,13 @@
+					<boardgame objectid="174">
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">T-Rex</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4Jdg4amvAsE8iRsY7V8Hz-TUp3w=/fit-in/200x150/pic206875.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FJcwyB6_3Nwa4y5eDN-mrbkmijA=/0x0/pic206875.jpg</image>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																											<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																						<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+					<average>5.50536</average>

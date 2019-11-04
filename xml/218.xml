@@ -1,0 +1,12 @@
+					<boardgame objectid="218">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>25</playingtime>
+			<age>12</age>
+							<name primary="true" sortindex="1">High-Bid</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SdbZjDhh6bxQAivvztlIWD9S5vo=/fit-in/200x150/pic58613.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JcAKPuR-EKAbw_RkVDMUnnmf0a4=/0x0/pic58613.jpg</image>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+																						<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>5.79111</average>

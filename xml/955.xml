@@ -1,0 +1,15 @@
+					<boardgame objectid="955">
+			<minplayers>2</minplayers>
+			<maxplayers>9</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Super Giant Monster Showdown</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/E56ZfBHB3wtS1BQkAgw1ycOsiM8=/fit-in/200x150/pic6834.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0u7h3yW25Xdxv79BTsEtjZ3AmlA=/0x0/pic6834.jpg</image>
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																						<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+					<average>6.00072</average>

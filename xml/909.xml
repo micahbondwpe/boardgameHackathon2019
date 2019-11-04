@@ -1,0 +1,10 @@
+					<boardgame objectid="909">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Saturn</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/pZzZhxXPFwYfFq0DcePcM479Z9k=/fit-in/200x150/pic35000.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5Z_dwDkIlhyzJ0A5QR38o-1GqXs=/0x0/pic35000.jpg</image>
+												<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+					<average>6.74459</average>

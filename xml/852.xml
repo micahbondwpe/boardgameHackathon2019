@@ -1,0 +1,17 @@
+					<boardgame objectid="852">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>25</playingtime>
+			<age>4</age>
+							<name primary="true" sortindex="1">Pop Belly</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tI7GafQdTLVo3XBhVZUe8n67T7I=/fit-in/200x150/pic1013949.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uYY5wDb18vG4SJnzKwoupIVvEew=/0x0/pic1013949.jpg</image>
+												<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1013">Farming</boardgamecategory>
+																													<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+					<average>5.24231</average>

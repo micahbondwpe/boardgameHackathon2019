@@ -1,0 +1,15 @@
+					<boardgame objectid="804">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Thunder Road</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xEqwZCZ1sSQyd509sq2dxGM_g3A=/fit-in/200x150/pic4010011.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/40zQXa6VhIUvltfyO_RhmJt9XmA=/0x0/pic4010011.jpg</image>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+																						<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+					<average>6.61386</average>

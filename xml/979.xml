@@ -1,0 +1,14 @@
+					<boardgame objectid="979">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="5">The Powerpuff Girls: Saving the World Before Bedtime</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Ew4DT0rRNcXDrZt7v6g6dTsTtlQ=/fit-in/200x150/pic1107773.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3g_H4ZUu6_u0KG5XojQFmmB2jO0=/0x0/pic1107773.jpg</image>
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+																						<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+					<average>5.90901</average>

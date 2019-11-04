@@ -1,0 +1,14 @@
+					<boardgame objectid="309">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Arabana-Ikibiti</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/jjXaEiWBjdGpg2dlnVimCTrnKjA=/fit-in/200x150/pic282327.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DOKPF3rNtVni2FF4EF0Ajin1tNw=/0x0/pic282327.jpg</image>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2081">Network and Route Building</boardgamemechanic>
+					<average>6.22653</average>

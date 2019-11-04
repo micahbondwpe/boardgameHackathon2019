@@ -1,0 +1,11 @@
+					<boardgame objectid="545">
+			<minplayers>2</minplayers>
+			<maxplayers>12</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Kaleidos</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/f7R9bMRK00Yy5LxQdg2FuAFs_Po=/fit-in/200x150/pic530545.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/z7ccx2iTGGzF62AU-l162gChQDQ=/0x0/pic530545.jpg</image>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+					<average>6.69754</average>

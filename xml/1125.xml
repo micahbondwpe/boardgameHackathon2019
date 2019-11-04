@@ -1,0 +1,13 @@
+					<boardgame objectid="1125">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Big Shot</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/AjKwjTolrklkN419NQ4gVEJKtCQ=/fit-in/200x150/pic4283746.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/y_gsh47WTtrD87C1T-TxaWaR1ho=/0x0/pic4283746.jpg</image>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																													<boardgamecategory objectid="1021">Economic</boardgamecategory>
+					<average>6.59173</average>

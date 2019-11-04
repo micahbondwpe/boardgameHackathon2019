@@ -1,0 +1,15 @@
+					<boardgame objectid="798">
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<age>10</age>
+							<name primary="true" sortindex="1">Ace of Aces: Handy Rotary Series</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0DQY1UiUToZiRfexTjcndhkyLwM=/fit-in/200x150/pic896670.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2e1_wvpby-BfiYRw7uNMrTmavTc=/0x0/pic896670.jpg</image>
+															<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgamecategory objectid="1117">Book</boardgamecategory>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+																						<boardgamecategory objectid="1065">World War I</boardgamecategory>
+					<average>7.01566</average>

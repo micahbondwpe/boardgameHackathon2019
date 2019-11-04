@@ -1,0 +1,13 @@
+					<boardgame objectid="878">
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<age>8</age>
+							<name primary="true" sortindex="1">Wyatt Earp</name>
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/1Svu-fUDcAEG96CqrS0DnV_3Cd0=/fit-in/200x150/pic2241574.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xTS6haDfYzxFcRtOPyygHr60328=/0x0/pic2241574.jpg</image>
+															<boardgamecategory objectid="1055">American West</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+					<average>6.8604</average>

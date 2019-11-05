@@ -1,17 +1,18 @@
-from datetime import datetime
-from flask import Flask, request, jsonify
+from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
-from flask_cors import CORS
-from flask_bcrypt import Bcrypt
 import json
 import os
+import argparse
+
+# initiate the parser
+parser = argparse.ArgumentParser()
+parser.add_argument("filename", help="set filename")
+args = parser.parse_args()
 
 #Init App
 app = Flask(__name__)
-CORS(app)
 basedir = os.path.abspath(os.path.dirname(__file__))
-bcrypt = Bcrypt(app)
 
 #Database
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(basedir, 'db.sqlite')
@@ -22,8 +23,6 @@ db = SQLAlchemy(app)
 
 #Init ma
 ma =Marshmallow(app)
-
-# Boardgame Class/Model
 
 class Boardgame(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -58,11 +57,20 @@ class BoardgameSchema(ma.Schema):
 boardgame_schema = BoardgameSchema(strict=True)
 boardgames_schema = BoardgameSchema(many=True, strict=True)
 
-@app.route('/boardgame/<id>', methods=['GET'])
-def get_boardgame(id):
-    boardgame = Boardgame.query.get(id)
-    return boardgame_schema.jsonify(boardgame)
+with open(f"../json/{args.filename}", "r") as read_file:
+    data = json.load(read_file)
+    id = data["id"]
+    name = data["name"]
+    minplayers = data["minplayers"]
+    maxplayers = data["maxplayers"]
+    playingtime = data["playingtime"]
+    age = data["age"]
+    boardgamecategory = data["boardgamecategory"]
+    boardgamemechanic = data["boardgamemechanic"]
+    rating = data["rating"]
+    image = data["image"]
+    thumbnail = data["thumbnail"]
 
-
-if __name__ == '__main__':
-    app.run(debug=True)
+    new_row = Boardgame(id, name, minplayers, maxplayers, playingtime, age, boardgamecategory, boardgamemechanic, rating, image, thumbnail)
+    db.session.add(new_row)
+    db.session.commit()
